@@ -1,1 +1,4 @@
-node_modeules/*
+node_modeules/
+.parcel-cache/
+dist/
+*.log
