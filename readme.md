@@ -1,4 +1,4 @@
-### Forkify Recipe Application
+## Forkify Recipe Application
 
 This project includes a recipe application.
 
@@ -29,7 +29,7 @@ npm build: Creates a production build for the project.
 
 ### Used Packages
 
-## Dependencies
+### Dependencies
 
 core-js: A library that supports modern features in JavaScript.
 regenerator-runtime: A runtime that supports features like async/await in versions lower than ECMAScript 6.
