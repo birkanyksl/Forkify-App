@@ -1,43 +1,43 @@
-# Forkify Recipe Application
+### Forkify Recipe Application
 
-Bu proje, yemek tarifleri uygulamasını içermektedir.
+This project includes a recipe application.
 
-## Başlangıç
+### Getting Started
 
-Proje üzerinde çalışmaya başlamak için aşağıdaki adımları takip edebilirsiniz.
+To start working on the project, you can follow the steps below.
 
-### Kurulum
+### Installation
 
-Proje bağımlılıklarını yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:
+To install project dependencies, run the following command in the terminal or command prompt:
 
 npm install
 
-### Çalıştırma
+### Running
 
-Proje üzerinde çalışmak için aşağıdaki komutu kullanabilirsiniz:
+You can use the following command to work on the project:
 
 npm start
 
-Bu komut, projeyi başlatmak ve geliştirme sunucusunu ayağa kaldırmak için Parcel kullanacaktır.
+This command will initiate the project and start the development server using Parcel.
 
-### Yapılandırma
+### Configuration
 
-Projenin yapılandırması için package.json dosyasını inceleyebilirsiniz. Ayrıca, geliştirme ve yapım süreçlerini kontrol etmek için aşağıdaki npm script'lerini kullanabilirsiniz:
+You can review the package.json file for the project configuration. Additionally, you can use the following npm scripts to control the development and build processes:
 
-npm start: Geliştirme sunucusunu başlatır.
-npm build: Proje için bir üretim build'ı oluşturur.
+npm start: Initiates the development server.
+npm build: Creates a production build for the project.
 
-### Kullanılan Paketler
+### Used Packages
 
-Dependencies
+## Dependencies
 
-core-js: JavaScript için modern özellikleri destekleyen bir kütüphane.
-regenerator-runtime: ECMAScript 6'dan alt versiyonlarda async/await gibi özellikleri destekleyen bir runtime.
+core-js: A library that supports modern features in JavaScript.
+regenerator-runtime: A runtime that supports features like async/await in versions lower than ECMAScript 6.
 DevDependencies
 
-@parcel/transformer-sass: Parcel ile SCSS dosyalarını işlemek için kullanılan bir transformer.
-parcel: Hızlı, sıfır yapılandırma JavaScript uygulamaları için bir paketleyici.
+@parcel/transformer-sass: A transformer used with Parcel to process SCSS files.
+parcel: A bundler for fast, zero-configuration JavaScript applications.
 
-### Yazar
+### Author
 
 Birkan Yüksel
