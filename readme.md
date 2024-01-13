@@ -37,6 +37,7 @@ DevDependencies
 
 @parcel/transformer-sass: A transformer used with Parcel to process SCSS files.
 parcel: A bundler for fast, zero-configuration JavaScript applications.
+fractional: is a lightweight JavaScript library for working with fractions. It provides functionality for creating, manipulating, and performing operations on fractions in a straightforward manner.
 
 ### Author
 
